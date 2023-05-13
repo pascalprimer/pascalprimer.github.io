@@ -83,7 +83,7 @@ author:
   name             : "Zhihan Jin / 金之涵"
   avatar           : "profile.png"
   bio              : "Ph.D. Student, D-MATH, ETH Zürich"
-  location         : "Department of Mathematics, ETH, HG J 14.3, Rämistrasse 101, 8092 Zürich, Switzerland."
+  location         : "HG J 14.3, ETH Zürich."
   employer         :
   pubmed           : 
   googlescholar    : "http://https://scholar.google.com/citations?user=EclVI5IAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
