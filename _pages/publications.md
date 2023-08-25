@@ -37,7 +37,11 @@ ICML 2022
 
 ## Accepted
 
+**Zhihan Jin** and István Tomon, [Semi-algebraic and semi-linear Ramsey numbers](https://www.sciencedirect.com/science/article/pii/S0095895623000503), *Journal of Combina-
+torial Theory Series B.* 163 (2023), 54-82.
 
+Zhengfeng Ji, **Zhihan Jin** and Pinyan Lu, [Approximating Permanent of a Random Matrix: Made Better
+and Simpler](https://dl.acm.org/doi/10.5555/3458064.3458124), *SODA* 2020.
 
 Surbhi Goel, Aravind Gollakota, **Zhihan Jin**, Sushrut Karmalkar and Adam Klivans, [Superpolynomial
 Lower Bounds for Learning One-Layer NeuralNetworks using Gradient Descent](https://proceedings.mlr.press/v119/goel20a.html), *ICML* 2020
