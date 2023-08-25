@@ -7,33 +7,15 @@ author_profile: true
 
 ## Submitted
 
-Tight Lower Bounds for Directed Cut Sparsification and Distributed Min-Cut.\\
-with Yu Cheng, Max Li, Zi-Yi Tai, David P. Woodruff, and Jason Zhang\\
-Manuscript
+Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://arxiv.org/abs/2308.12268).
 
-[$\ell_p$-Regression in the Arbitrary Partition Model of Communication.](https://arxiv.org/pdf/2307.05117.pdf) \\
-with Yi Li and David P. Woodruff\\
-COLT 2023
+Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Ramsey problems for monotone paths in graphs and
+hypergraphs](https://arxiv.org/pdf/2308.04357.pdf).
 
-[Learning the Positions in CountSketch.](https://openreview.net/forum?id=iV9Cs8s8keU)\\
-with Yi Li, Simin Liu, Ali Vakilian, and David P. Woodruff\\
-ICLR 2023 (<font color = red>spotlight</font>)  
+Recep Altar Çiçeksiz, **Zhihan Jin**, Eero Räty and István Tomon, [Exponential Erdős-Szekeres theorem
+for matrices](https://arxiv.org/abs/2305.07003).
 
-[The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines.](https://arxiv.org/pdf/2211.07132.pdf) \\
-with Yi Li and David P. Woodruff \\
-SODA 2023
-
-[Streaming Algorithms with Large Approximation Factors.](https://arxiv.org/pdf/2207.08075.pdf)\\
-with Yi Li, David P. Woodruff, and Yuheng Zhang \\
-RANDOM 2022
-
-[Learning-Augmented Binary Search Trees.](https://arxiv.org/pdf/2206.12110.pdf)\\
-with Tian Luo, and David P. Woodruff\\
-ICML 2022
-
-[Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra.](https://arxiv.org/pdf/2011.04125.pdf)\\
-with Nadiia Chepurko, Kenneth L. Clarkson, Lior Horesh, and David P. Woodruff\\
-ICML 2022
+Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [The Minimum Degree Removal Lemma Thresholds](https://arxiv.org/abs/2301.13789).
 
 ## Accepted
 
