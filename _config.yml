@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "素鸡的个人主页"
+title                    : "金之涵的个人主页"
 title_separator          : "-"
 name                     : &name "Zhihan Jin / 金之涵"
 description              : &description "Ph.D. Student, D-MATH, ETH Zürich"
@@ -86,7 +86,7 @@ author:
   location         : "HG J 14.3, ETH Zürich."
   employer         :
   pubmed           : 
-  googlescholar    : "http://https://scholar.google.com/citations?user=EclVI5IAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=EclVI5IAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
