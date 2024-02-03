@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610).
+Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610), submitted.
 
 Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://arxiv.org/abs/2308.12268), submitted.
 
