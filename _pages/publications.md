@@ -16,16 +16,14 @@ for matrices](https://arxiv.org/abs/2305.07003), submitted.
 
 ## To appear
 
-Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Ramsey problems for monotone paths in graphs and
-hypergraphs](https://arxiv.org/pdf/2308.04357.pdf), accepted by Combinatorica.
-
 ## Accepted
 
-Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [The Minimum Degree Removal Lemma Thresholds](https://www.sciencedirect.com/science/article/pii/S0095895624000042), *Journal of Combina
-torial Theory Series B*, 166 (2024), 203-221.
+Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Ramsey problems for monotone paths in graphs and
+hypergraphs](https://arxiv.org/pdf/2308.04357.pdf), *Combinatorica*, (2024): 1-21.
 
-**Zhihan Jin** and István Tomon, [Semi-algebraic and semi-linear Ramsey numbers](https://www.sciencedirect.com/science/article/pii/S0095895623000503), *Journal of Combina
-torial Theory Series B*, 163 (2023), 54-82.
+Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [The Minimum Degree Removal Lemma Thresholds](https://www.sciencedirect.com/science/article/pii/S0095895624000042), *J. Combinatorial Theory Ser. B*, 166 (2024), 203-221.
+
+**Zhihan Jin** and István Tomon, [Semi-algebraic and semi-linear Ramsey numbers](https://www.sciencedirect.com/science/article/pii/S0095895623000503), *J. Combinatorial Theory Ser. B*, 163 (2023), 54-82.
 
 Zhengfeng Ji, **Zhihan Jin** and Pinyan Lu, [Approximating Permanent of a Random Matrix: Made Better
 and Simpler](https://dl.acm.org/doi/10.5555/3458064.3458124), *SODA* 2020.
