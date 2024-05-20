@@ -18,8 +18,4 @@ I am a second-year PhD student at the [Mathematics Department, ETH Zürich](http
 - Extremal Set Theory
 - Theoretical Computer Science
 
-Previously, I did my undergraduate at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I worked with [Prof. Pinyan Lu](http://pinyanlu.com/) and [Prof. Chihao Zhang](http://chihaozhang.com/). You can find my CV [here](/EnglishCV.pdf).
-
-Shit
-<a href="EnglishCV.pdf"><img src="../images/toli.png" alt="Alt text" width="20"></a>
-Here’s a brief explanation of the components:
+Previously, I did my undergraduate at [ACM Honors Class](https://acm.sjtu.edu.cn/home), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I worked with [Prof. Pinyan Lu](http://pinyanlu.com/) and [Prof. Chihao Zhang](http://chihaozhang.com/). You can find my CV <a href="EnglishCV.pdf"><img src="../images/toli.png" alt="Alt text" width="20"></a>.
