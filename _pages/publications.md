@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+Noga Alon, **Zhihan Jin** and Benny Sudakov, [The Helly number of Hamming balls and related problems](https://arxiv.org/abs/2405.10275), manuscript.
+
 Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610), submitted.
 
 Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://arxiv.org/abs/2308.12268), submitted.
