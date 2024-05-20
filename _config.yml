@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "金之涵的个人主页"
+title                    : "Zhihan Jin's Homepage"
 title_separator          : "-"
 name                     : &name "Zhihan Jin / 金之涵"
 description              : &description "Ph.D. Student, D-MATH, ETH Zürich"
