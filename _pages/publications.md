@@ -13,7 +13,7 @@ Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph
 
 Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://arxiv.org/abs/2308.12268), submitted.
 
-## To appear
+[//]: # (## To appear)
 
 ## Accepted
 
