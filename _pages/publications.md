@@ -18,7 +18,7 @@ Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enum
 ## Accepted
 
 Recep Altar Çiçeksiz, **Zhihan Jin**, Eero Räty and István Tomon, [Exponential Erdős-Szekeres theorem
-for matrices](https://arxiv.org/abs/2305.07003), *Proc. London Math. Soc.* (3) 2024;129:e12632.
+for matrices](https://arxiv.org/abs/2305.07003), *Proc. London Math. Soc.* (3) 2024; 129: e12632.
 
 Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Ramsey problems for monotone paths in graphs and
 hypergraphs](https://arxiv.org/pdf/2308.04357.pdf), *Combinatorica*, (2024): 1-21.
