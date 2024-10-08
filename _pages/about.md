@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year PhD student at the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I am fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
+I am a third-year PhD student at the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I am fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
 
 - Ramsey Theory
 - Probabilistic Methods in Combinatorics
