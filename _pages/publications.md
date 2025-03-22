@@ -14,7 +14,7 @@ author_profile: true
 * Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610), submitted.
 
 
-## To appear
+[//]: <> (## To appear)
 
 
 ## Accepted
