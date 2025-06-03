@@ -7,7 +7,9 @@ author_profile: true
 
 ## Preprints
 
-* Barnabás Janzer, **Zhihan Jin**, Benny Sudakov, Kewen Wu, [Sunflowers and Ramsey problems for restricted intersections](https://arxiv.org/abs/2504.15264).
+* **Zhihan Jin**, Matthew Kwan, Lisa Sauermann, Yiting Wang, [Algebraic aspects of the polynomial Littlewood-Offord problem](https://arxiv.org/abs/2505.23335), submitted.
+
+* Barnabás Janzer, **Zhihan Jin**, Benny Sudakov, Kewen Wu, [Sunflowers and Ramsey problems for restricted intersections](https://arxiv.org/abs/2504.15264), submitted.
 
 * **Zhihan Jin**, Matthew Kwan, Lyuben Lichev, [Colouring random Hasse diagrams and box-Delaunay graphs](https://arxiv.org/abs/2501.12373), submitted.
 
