@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+* **Zhihan Jin**, Aleksa Milojević, István Tomon, Shengtong Zhang, [From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/pdf/2509.03490).
+
 * **Zhihan Jin**, Matthew Kwan, Lisa Sauermann, Yiting Wang, [Algebraic aspects of the polynomial Littlewood-Offord problem](https://arxiv.org/abs/2505.23335), submitted.
 
 * Barnabás Janzer, **Zhihan Jin**, Benny Sudakov, Kewen Wu, [Sunflowers and Ramsey problems for restricted intersections](https://arxiv.org/abs/2504.15264), submitted.
