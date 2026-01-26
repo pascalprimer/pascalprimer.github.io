@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+* Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Set mappings for general graphs](https://arxiv.org/abs/2601.00766), submitted.
+
 * **Zhihan Jin**, Aleksa Milojević, István Tomon, Shengtong Zhang, [From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/pdf/2509.03490), submitted. See also this [blog](https://gilkalai.wordpress.com/2025/09/17/polynomial-bounds-for-chowlas-cosine-problem/) post. 
 
 * **Zhihan Jin**, Matthew Kwan, Lisa Sauermann, Yiting Wang, [Algebraic aspects of the polynomial Littlewood-Offord problem](https://arxiv.org/abs/2505.23335), submitted.
@@ -15,17 +17,17 @@ author_profile: true
 
 * **Zhihan Jin**, Matthew Kwan, Lyuben Lichev, [Colouring random Hasse diagrams and box-Delaunay graphs](https://arxiv.org/abs/2501.12373), submitted.
 
-* Noga Alon, **Zhihan Jin** and Benny Sudakov, [The Helly number of Hamming balls and related problems](https://arxiv.org/abs/2405.10275), submitted.
-
 * Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610), submitted.
 
 
-[//]: <> (## To appear)
+## To appear
+
+* Noga Alon, **Zhihan Jin** and Benny Sudakov, [The Helly number of Hamming balls and related problems](https://arxiv.org/abs/2405.10275), to appear in *Trans. Amer. Math. Soc.*.
 
 
 ## Accepted
 
-* Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://doi.org/10.1017/fms.2024.144), Forum of Mathematics, Sigma 13 (2025), e55.
+* Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://doi.org/10.1017/fms.2024.144), *Forum Math. Sigma.*, 13 (2025), e55.
 
 * Recep Altar Çiçeksiz, **Zhihan Jin**, Eero Räty and István Tomon, [Exponential Erdős-Szekeres theorem for matrices](https://doi.org/10.1112/plms.12632), *Proc. London Math. Soc.*, (2024), Vol. 129, (3): e12632.
 
