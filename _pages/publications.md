@@ -9,7 +9,7 @@ author_profile: true
 
 * Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Set mappings for general graphs](https://arxiv.org/abs/2601.00766), submitted.
 
-* **Zhihan Jin**, Aleksa Milojević, István Tomon, Shengtong Zhang, [From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/pdf/2509.03490), submitted. See also this [blog](https://gilkalai.wordpress.com/2025/09/17/polynomial-bounds-for-chowlas-cosine-problem/) post. 
+* **Zhihan Jin**, Aleksa Milojević, István Tomon, Shengtong Zhang, [From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/pdf/2509.03490), submitted. See also this [blog](https://gilkalai.wordpress.com/2025/09/17/polynomial-bounds-for-chowlas-cosine-problem/) post and this [Quanta](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/) article.
 
 * **Zhihan Jin**, Matthew Kwan, Lisa Sauermann, Yiting Wang, [Algebraic aspects of the polynomial Littlewood-Offord problem](https://arxiv.org/abs/2505.23335), submitted.
 
