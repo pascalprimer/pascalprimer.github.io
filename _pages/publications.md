@@ -17,15 +17,14 @@ author_profile: true
 
 * **Zhihan Jin**, Matthew Kwan, Lyuben Lichev, [Colouring random Hasse diagrams and box-Delaunay graphs](https://arxiv.org/abs/2501.12373), submitted.
 
-* Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://arxiv.org/abs/2312.06610), submitted.
-
-
 ## To appear
 
 * Noga Alon, **Zhihan Jin** and Benny Sudakov, [The Helly number of Hamming balls and related problems](https://arxiv.org/abs/2405.10275), to appear in *Trans. Amer. Math. Soc.*.
 
 
 ## Accepted
+
+* Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Difference-Isomorphic Graph Families](https://doi.org/10.1016/j.jctb.2026.06.001), *J. Combinatorial Theory Ser. B*, 180 (2026), 25-61.
 
 * Michael Anastos, **Zhihan Jin**, Matthew Kwan and Benny Sudakov, [Extremal, enumerative and probabilistic results on ordered hypergraph matchings](https://doi.org/10.1017/fms.2024.144), *Forum Math. Sigma.*, 13 (2025), e55.
 
