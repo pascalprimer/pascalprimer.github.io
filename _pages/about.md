@@ -10,7 +10,8 @@ redirect_from:
 
 # About Me
 
-I am a final-year PhD student at the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I am fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
+I will join [ISTA](https://ist.ac.at/en/home/) as an ISTA Fellow starting in September 2026.
+I recently graduated from the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I am fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
 
 - Ramsey Theory
 - Probabilistic Methods in Combinatorics
