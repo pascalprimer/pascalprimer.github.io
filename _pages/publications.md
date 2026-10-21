@@ -7,8 +7,6 @@ author_profile: true
 
 ## Preprints
 
-* Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Set mappings for general graphs](https://arxiv.org/abs/2601.00766), submitted.
-
 * **Zhihan Jin**, Aleksa Milojević, István Tomon, Shengtong Zhang, [From small eigenvalues to large cuts, and Chowla's cosine problem](https://arxiv.org/pdf/2509.03490), submitted. See also this [blog](https://gilkalai.wordpress.com/2025/09/17/polynomial-bounds-for-chowlas-cosine-problem/) post and this [Quanta](https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/) article.
 
 * **Zhihan Jin**, Matthew Kwan, Lisa Sauermann, Yiting Wang, [Algebraic aspects of the polynomial Littlewood-Offord problem](https://arxiv.org/abs/2505.23335), submitted.
@@ -16,6 +14,8 @@ author_profile: true
 * **Zhihan Jin**, Matthew Kwan, Lyuben Lichev, [Colouring random Hasse diagrams and box-Delaunay graphs](https://arxiv.org/abs/2501.12373), submitted.
 
 ## To appear
+
+* Lior Gishboliner, **Zhihan Jin** and Benny Sudakov, [Set mappings for general graphs](https://arxiv.org/abs/2601.00766), to appear in *Comb. Probab. Comput.*.
 
 * Noga Alon, **Zhihan Jin** and Benny Sudakov, [The Helly number of Hamming balls and related problems](https://arxiv.org/abs/2405.10275), to appear in *Trans. Amer. Math. Soc.*.
 
