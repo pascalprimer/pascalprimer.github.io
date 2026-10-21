@@ -10,8 +10,8 @@ redirect_from:
 
 # About Me
 
-I will join [ISTA](https://ist.ac.at/en/home/) as an ISTA Fellow starting in September 2026.
-I recently graduated from the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I am fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
+I joined [ISTA](https://ist.ac.at/en/home/) this September as an [ISTA Fellow](https://ist.ac.at/en/education/postdocs/ista-fellow/) hosted by [Matthew Kwan](https://mkwn.github.io/).
+I recently graduated from the [Mathematics Department, ETH Zürich](https://math.ethz.ch/), where I was fortunate to be advised by [Prof. Benny Sudakov](https://people.math.ethz.ch/~sudakovb/). My research interests lie broadly in combinatorics, particularly: 
 
 - Ramsey Theory
 - Probabilistic Methods in Combinatorics
